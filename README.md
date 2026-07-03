@@ -19,8 +19,8 @@ Tengo 16 años y soy un apasionado de la tecnología en pleno camino de aprendiz
 
 📂 Mis repositorios de estudio:
 
-    Redes-y-CheatSheets: Mis notas de estudio sobre Cisco y comandos útiles.
+    Redes-y-CheatSheets:(Próximamente) Mis notas de estudio sobre Cisco y comandos útiles.
 
-    Wargames-Bandit: Los comandos y pequeños scripts que voy usando para superar cada nivel de Bandit.
+    Wargames-Bandit:(Próximamente) Los comandos y pequeños scripts que voy usando para superar cada nivel de Bandit.
 
     Herramientas-Python-Seguridad: (Próximamente) El espacio donde guardaré los programas que cree cuando empiece con la automatización.
