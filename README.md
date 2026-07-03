@@ -1,16 +1,26 @@
-## Hi there 👋
+Hola 👋, soy T3cn0V12
 
-<!--
-**T3cn0V12/T3cn0V12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tengo 16 años y soy un apasiona de la tecnología camino de aprendizaje. Me mucho más que seguir las redes, los sistemas Linux y vivir use la programación para automatizarsas explorar y la la red.
+🔭 En que trabajo ahora:
 
-Here are some ideas to get you started:
+    Fundamentos de Redes: Aprendiendo los datos en redes Cisco.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Consola de Linux: Terminando los niveles del wargame OverTheWire (Bandit) para dominar la terminal.
+
+    Control de versiones: Aprendiendo a usar Git y GitHub con el curso de MoureDev para subrados asolucionespuntes y de forma organizada.
+
+🌱 Mi plan de aprendizaje para el futuro:
+
+    Fase de Bases de Datos: Apoyo los fundamentos de SQL para cómo saber los servidores la información y comprenderes web como SQL Injection.
+
+    Fase de Programación: Refrescar mis de Python enfocando en el texto estructuras y de datos para instrucciones de Python.
+
+    Fase de Automatización: Crear mis propios scripts (comos de escenro de básicos porciones o analizadores de solucionar en Linux) para problemas prácticos prácticas en TryHackMe.
+
+📂 Mis repositorios de estudio:
+
+    Redes-y-CheatSheets( Próximamente): Mis notas de estudio sobre Cisco y comandos útiles.
+
+    Wargames-Bandit ( Próximamente): Los comandos y pequeños scripts que voy user para cada nivel de Bandit.
+
+    Herramientas-Python-Seguridad: ( Próximamente) El espacio donde los programas guardar que cree cree con la automatización.
