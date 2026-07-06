@@ -22,7 +22,7 @@ Tengo 16 años y soy un apasionado de la tecnología en pleno camino de aprendiz
 
     Curso-Git-MoureDev: Mis prácticas y apuntes del flujo de trabajo aprendido en Git y GitHub.
 
-    Redes-y-CheatSheets: (Próximamente) Mis notas de estudio sobre Cisco y comandos útiles de red.
+    Redes: (Próximamente) Mis notas de estudio sobre Cisco y comandos útiles de red.
 
     Wargames-Bandit: (Próximamente) Los comandos y pequeños scripts en Bash que voy usando para superar cada nivel de Bandit.
 
