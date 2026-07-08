@@ -6,9 +6,9 @@ Tengo 16 años y soy un apasionado de la tecnología en pleno camino de aprendiz
 
     Control de versiones (Completado): Ya conozco los comandos de Git para monitorear, subir y organizar mis proyectos en la nube de forma estructurada.
 
-    Consola de Linux y Bash: Estudiando Bash y la terminal con el curso de MoureDev para dominar el entorno nativo de Linux y terminando los niveles del wargame OverTheWire (Bandit).
+    Consola de Linux y Bash (Completado): Estudiando Bash y la terminal con el curso de MoureDev para dominar el entorno nativo de Linux y terminando los niveles del wargame OverTheWire (Bandit).
 
-    Fundamentos de Redes: Aprendiendo cómo viajan los datos en redes Cisco.
+    Fundamentos de Redes (En proceso): Aprendiendo cómo viajan los datos en redes Cisco.
 
 🌱 Mi plan de aprendizaje para el futuro:
 
@@ -20,7 +20,7 @@ Tengo 16 años y soy un apasionado de la tecnología en pleno camino de aprendiz
 
 📂 Mis repositorios de estudio:
 
-    Curso-Git-MoureDev: Mis prácticas y apuntes del flujo de trabajo aprendido en Git y GitHub.
+    Curso-Git-MoureDev (Listo): Mis prácticas y apuntes del flujo de trabajo aprendido en Git y GitHub.
 
     Redes: (Próximamente) Mis notas de estudio sobre Cisco y comandos útiles de red.
 
